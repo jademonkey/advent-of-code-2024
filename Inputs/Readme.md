@@ -1,0 +1,1 @@
+Input files should be placed here as named `DayX` and `ExampleX` where X is the number for the day from 1-25. `DayX` corresponds to your actual input while `ExampleX` corresponds to the example given in the instructions.
